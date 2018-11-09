@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -34,37 +34,38 @@
     <ErrorReport>prompt</ErrorReport>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Printing.v11.1.Core">
+    <Reference Include="DevExpress.Printing.v13.1.Core">
       <Private>True</Private>
-      <HintPath>c:\Projects\Test_Examples\TestFolder\Dlls\11.1.4\DevExpress.Printing.v11.1.Core.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Data.v11.1">
+    <Reference Include="DevExpress.Data.v13.1">
       <Private>True</Private>
-      <HintPath>c:\Projects\Test_Examples\TestFolder\Dlls\11.1.4\DevExpress.Data.v11.1.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Utils.v11.1">
+    <Reference Include="DevExpress.Utils.v13.1">
       <Private>True</Private>
-      <HintPath>c:\Projects\Test_Examples\TestFolder\Dlls\11.1.4\DevExpress.Utils.v11.1.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Web.ASPxEditors.v11.1">
+    <Reference Include="DevExpress.Web.ASPxEditors.v13.1">
       <Private>True</Private>
-      <HintPath>c:\Projects\Test_Examples\TestFolder\Dlls\11.1.4\DevExpress.Web.ASPxEditors.v11.1.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Web.ASPxGauges.v11.1">
+    <Reference Include="DevExpress.Web.ASPxGauges.v13.1">
       <Private>True</Private>
-      <HintPath>c:\Projects\Test_Examples\TestFolder\Dlls\11.1.4\DevExpress.Web.ASPxGauges.v11.1.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.Web.v11.1">
+    <Reference Include="DevExpress.Office.v13.1.Core">
       <Private>True</Private>
-      <HintPath>c:\Projects\Test_Examples\TestFolder\Dlls\11.1.4\DevExpress.Web.v11.1.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.XtraGauges.v11.1.Core">
+    <Reference Include="DevExpress.Docs.v13.1">
       <Private>True</Private>
-      <HintPath>c:\Projects\Test_Examples\TestFolder\Dlls\11.1.4\DevExpress.XtraGauges.v11.1.Core.dll</HintPath>
     </Reference>
-    <Reference Include="DevExpress.XtraGauges.v11.1.Presets">
+    <Reference Include="DevExpress.RichEdit.v13.1.Core">
       <Private>True</Private>
-      <HintPath>c:\Projects\Test_Examples\TestFolder\Dlls\11.1.4\DevExpress.XtraGauges.v11.1.Presets.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Web.v13.1">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraGauges.v13.1.Core">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraGauges.v13.1.Presets">
+      <Private>True</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />

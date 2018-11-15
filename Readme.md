@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/CustomDraw/Default.aspx) (VB: [Default.aspx.vb](./VB/CustomDraw/Default.aspx.vb))
+* [Default.aspx.cs](./CS/CustomDraw/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/CustomDraw/Default.aspx.vb))
+<!-- default file list end -->
 # How to use CustomDrawElement event to extend gauge appearance with logos or watermarks
 
 

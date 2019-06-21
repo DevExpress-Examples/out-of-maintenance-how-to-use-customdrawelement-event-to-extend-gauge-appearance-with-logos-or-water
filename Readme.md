@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/CustomDraw/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/CustomDraw/Default.aspx.vb))
 <!-- default file list end -->
 # How to use CustomDrawElement event to extend gauge appearance with logos or watermarks
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3461/)**
+<!-- run online end -->
 
 
 <p>This sample illustrates how to use <strong>CustomDrawElement </strong>event to extend any <strong>ASPxGaugeControl </strong>part with additional appearance elements (such as logos or watermarks).<br />

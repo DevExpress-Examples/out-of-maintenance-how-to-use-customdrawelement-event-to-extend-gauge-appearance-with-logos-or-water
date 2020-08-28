@@ -43,9 +43,6 @@
     <Reference Include="DevExpress.Utils.v13.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Web.ASPxEditors.v13.1">
-      <Private>True</Private>
-    </Reference>
     <Reference Include="DevExpress.Web.ASPxGauges.v13.1">
       <Private>True</Private>
     </Reference>

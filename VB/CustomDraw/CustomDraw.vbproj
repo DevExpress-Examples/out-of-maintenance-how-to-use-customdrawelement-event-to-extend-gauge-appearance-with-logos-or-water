@@ -34,34 +34,34 @@
     <ErrorReport>prompt</ErrorReport>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Printing.v13.1.Core">
+    <Reference Include="DevExpress.Printing.v15.1.Core">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Data.v13.1">
+    <Reference Include="DevExpress.Data.v15.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Utils.v13.1">
+    <Reference Include="DevExpress.Utils.v15.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Web.ASPxGauges.v13.1">
+    <Reference Include="DevExpress.Web.ASPxGauges.v15.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Office.v13.1.Core">
+    <Reference Include="DevExpress.Office.v15.1.Core">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Docs.v13.1">
+    <Reference Include="DevExpress.Docs.v15.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.RichEdit.v13.1.Core">
+    <Reference Include="DevExpress.RichEdit.v15.1.Core">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Web.v13.1">
+    <Reference Include="DevExpress.Web.v15.1">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraGauges.v13.1.Core">
+    <Reference Include="DevExpress.XtraGauges.v15.1.Core">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraGauges.v13.1.Presets">
+    <Reference Include="DevExpress.XtraGauges.v15.1.Presets">
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />

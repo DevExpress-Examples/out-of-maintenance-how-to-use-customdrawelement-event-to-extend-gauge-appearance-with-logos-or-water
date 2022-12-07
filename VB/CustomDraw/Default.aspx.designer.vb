@@ -74,6 +74,6 @@ Namespace CustomDraw
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected value As Global.DevExpress.Web.ASPxEditors.ASPxSpinEdit
+		Protected value As Global.DevExpress.Web.ASPxSpinEdit
 	End Class
 End Namespace
